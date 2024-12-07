@@ -1,2 +1,4 @@
-application testing is progress.
-test before deployment.
+application testing is in progress.
+test before deployment
+QA team are at work
+  
